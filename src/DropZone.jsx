@@ -59,7 +59,7 @@ function DropZone() {
         <p style={{ maxWidth: 600 }}>
           Currently the animation only animates in and not out. There is also an
           edge-case where adding an element to the end doesn't work if you pass
-          over individual items already added These are all fixable, but I'm
+          over individual items already added. These are all fixable, but I'm
           reaching a stopping point for today and would like to share.
         </p>
         <label htmlFor="animation">
