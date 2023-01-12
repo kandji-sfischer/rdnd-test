@@ -53,7 +53,9 @@ function AppItem(props) {
     <StyledAppItem
       ref={drag}
       className="app"
-      style={{ background: obj.color }}
+      style={{
+        background: obj.color,
+      }}
       key={obj.color}
     >
       {obj.color}
